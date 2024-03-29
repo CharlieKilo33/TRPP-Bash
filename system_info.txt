@@ -1,4 +1,4 @@
-Current date and time: Пт 29 мар 2024 01:28:21 MSK
+Current date and time: Пт 29 мар 2024 03:09:37 MSK
 List of registered users: root
 daemon
 bin
@@ -35,12 +35,6 @@ avahi
 cups-pk-helper
 rtkit
 whoopsie
-sssd
-speech-dispatcher
-fwupd-refresh
-nm-openvpn
-saned
-colord
 geoclue
 pulse
 gnome-initial-setup
@@ -49,4 +43,4 @@ gdm
 mike
 vboxadd
 mike2
-System uptime:  01:28:21 up 43 min,  1 user,  load average: 0,30, 0,23, 0,16
+System uptime:  03:09:37 up  2:24,  1 user,  load average: 0,10, 0,15, 0,16

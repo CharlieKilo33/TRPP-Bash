@@ -1,9 +1,9 @@
 #!/bin/bash
 
-directory="/home/mike/Scripts"
+dir="/home/mike/scripts"
 
-if [ -d "$directory" ]; then
-    ls -l "$directory"
+if [ -d "$dir" ]; then
+    ls -l "$dir"
 else
     echo "Directory does not exist."
 fi
